@@ -146,6 +146,33 @@
       </tags>
   </entry>
   <entry>
+    <title>STL容器-set</title>
+    <url>/STL%E5%AE%B9%E5%99%A8-set/</url>
+    <content><![CDATA[<h2 id="set介绍"><a href="#set介绍" class="headerlink" title="set介绍"></a>set介绍</h2><p><strong><a href="http://c.biancheng.net/view/7192.html">参考链接</a></strong></p>
+<p>set是STL中的一种关联容器，它的底层是红黑树，也称为RB树(Red-Black Tree)，同样底层采用了红黑树的容器还有multiset, map, multimap。它是用来存储同一数据类型的数据类型，并且能从一个数据集合中取出数据，在set中每个元素的值都唯一，而且能根据元素的值自动进行排序(默认升序)。</p>
+<span id="more"></span>
+
+<h2 id="常用函数"><a href="#常用函数" class="headerlink" title="常用函数"></a>常用函数</h2><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">set&lt;<span class="type">int</span>&gt;sc;<span class="comment">//定义</span></span><br><span class="line">sc.<span class="built_in">insert</span>(<span class="number">8</span>);</span><br><span class="line">sc.<span class="built_in">insert</span>(<span class="number">3</span>);</span><br><span class="line">sc.<span class="built_in">insert</span>(<span class="number">4</span>);</span><br><span class="line">sc.<span class="built_in">insert</span>(<span class="number">2</span>);</span><br><span class="line">sc.<span class="built_in">insert</span>(<span class="number">1</span>);<span class="comment">//插入指定元素</span></span><br><span class="line">sc.<span class="built_in">begin</span>();<span class="comment">//指向sc第一个元素的迭代器</span></span><br><span class="line">sc.<span class="built_in">end</span>();<span class="comment">//指向sc最后一个元素之后的迭代器</span></span><br><span class="line">sc.<span class="built_in">erase</span>(<span class="number">1</span>);<span class="comment">//删除指定元素，删除成功返回1，否则返回0</span></span><br><span class="line">sc.<span class="built_in">empty</span>();<span class="comment">//判断是否为空，为空返回1，否则返回0</span></span><br><span class="line">sc.<span class="built_in">find</span>(<span class="number">1</span>)<span class="comment">//查找1这个元素，找到返回此元素迭代器，没有找到返回myset.end()</span></span><br><span class="line">sc.<span class="built_in">size</span>();<span class="comment">//返回sc的元素个数</span></span><br><span class="line">sc.<span class="built_in">count</span>(<span class="number">1</span>)<span class="comment">//对1进行计数，存在返回1，不存在返回0</span></span><br><span class="line"><span class="comment">//set的遍历</span></span><br><span class="line"><span class="keyword">for</span>(set&lt;<span class="type">int</span>&gt;::iterator it=sc.<span class="built_in">begin</span>();it!=sc.<span class="built_in">end</span>();it++)</span><br><span class="line">		<span class="built_in">printf</span>(<span class="string">&quot;%d&quot;</span>,*it);</span><br><span class="line"></span><br><span class="line">sc.<span class="built_in">lower_bound</span>(<span class="number">1</span>)<span class="comment">//寻找第一个大于等于1的元素，返回此元素迭代器，未找到返回sc.end()</span></span><br><span class="line">sc.<span class="built_in">upper_bound</span>(<span class="number">1</span>)<span class="comment">//寻找第一个大于1的元素，返回此元素迭代器，未找到返回sc.end()</span></span><br></pre></td></tr></table></figure>
+
+<h2 id="例子"><a href="#例子" class="headerlink" title="例子"></a>例子</h2><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span><span class="string">&lt;set&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="keyword">include</span><span class="string">&lt;stdio.h&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> std;</span><br><span class="line"><span class="function"><span class="type">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">	set&lt;<span class="type">int</span>&gt; sc;</span><br><span class="line">	sc.<span class="built_in">insert</span>(<span class="number">1</span>);</span><br><span class="line">	sc.<span class="built_in">insert</span>(<span class="number">8</span>);</span><br><span class="line">	sc.<span class="built_in">insert</span>(<span class="number">3</span>);</span><br><span class="line">	sc.<span class="built_in">insert</span>(<span class="number">4</span>);</span><br><span class="line">	sc.<span class="built_in">insert</span>(<span class="number">2</span>);</span><br><span class="line">	sc.<span class="built_in">erase</span>(<span class="number">3</span>);</span><br><span class="line">	<span class="keyword">for</span>(set&lt;<span class="type">int</span>&gt;::iterator it=sc.<span class="built_in">begin</span>();it!=sc.<span class="built_in">end</span>();it++)</span><br><span class="line">		<span class="built_in">printf</span>(<span class="string">&quot;%d&quot;</span>,*it);</span><br><span class="line">	<span class="built_in">printf</span>(<span class="string">&quot;\n&quot;</span>);</span><br><span class="line">	sc.<span class="built_in">erase</span>(*sc.<span class="built_in">lower_bound</span>(<span class="number">4</span>));</span><br><span class="line">	<span class="keyword">for</span>(set&lt;<span class="type">int</span>&gt;::iterator it=sc.<span class="built_in">begin</span>();it!=sc.<span class="built_in">end</span>();it++)</span><br><span class="line">		<span class="built_in">printf</span>(<span class="string">&quot;%d&quot;</span>,*it);</span><br><span class="line">	<span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<h2 id="运行结果"><a href="#运行结果" class="headerlink" title="运行结果"></a>运行结果</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">1248</span><br><span class="line">128</span><br></pre></td></tr></table></figure>
+
+<h2 id="练习题目"><a href="#练习题目" class="headerlink" title="练习题目"></a>练习题目</h2><p><strong><a href="https://pintia.cn/problem-sets/994805046380707840/problems/994805070149828608">集合相似度</a></strong></p>
+<p><strong><a href="https://pintia.cn/problem-sets/994805046380707840/problems/994805063166312448">列车调度</a></strong></p>
+<h2 id="往期文章"><a href="#往期文章" class="headerlink" title="往期文章"></a>往期文章</h2><p><strong><a href="/STL%E5%AE%B9%E5%99%A8-set/" title="STL容器-set">STL容器-set</a></strong></p>
+]]></content>
+      <categories>
+        <category>专栏</category>
+        <category>数据结构</category>
+        <category>STL</category>
+      </categories>
+      <tags>
+        <tag>STL</tag>
+        <tag>set</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>SpringBoot集成WebSocket的简单示例</title>
     <url>/SpringBoot%E9%9B%86%E6%88%90WebSocket%E7%9A%84%E7%AE%80%E5%8D%95%E7%A4%BA%E4%BE%8B/</url>
     <content><![CDATA[<h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>​        WebSocket是一种浏览器与服务器之间进行全双工的通信协议，属于应用层协议，基于Http协议。它有以下几个优点：</p>
@@ -191,33 +218,6 @@
         <tag>SpringBoot</tag>
         <tag>通信协议</tag>
         <tag>全双工通讯</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>STL容器-set</title>
-    <url>/STL%E5%AE%B9%E5%99%A8-set/</url>
-    <content><![CDATA[<h2 id="set介绍"><a href="#set介绍" class="headerlink" title="set介绍"></a>set介绍</h2><p><strong><a href="http://c.biancheng.net/view/7192.html">参考链接</a></strong></p>
-<p>set是STL中的一种关联容器，它的底层是红黑树，也称为RB树(Red-Black Tree)，同样底层采用了红黑树的容器还有multiset, map, multimap。它是用来存储同一数据类型的数据类型，并且能从一个数据集合中取出数据，在set中每个元素的值都唯一，而且能根据元素的值自动进行排序(默认升序)。</p>
-<span id="more"></span>
-
-<h2 id="常用函数"><a href="#常用函数" class="headerlink" title="常用函数"></a>常用函数</h2><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">set&lt;<span class="type">int</span>&gt;sc;<span class="comment">//定义</span></span><br><span class="line">sc.<span class="built_in">insert</span>(<span class="number">8</span>);</span><br><span class="line">sc.<span class="built_in">insert</span>(<span class="number">3</span>);</span><br><span class="line">sc.<span class="built_in">insert</span>(<span class="number">4</span>);</span><br><span class="line">sc.<span class="built_in">insert</span>(<span class="number">2</span>);</span><br><span class="line">sc.<span class="built_in">insert</span>(<span class="number">1</span>);<span class="comment">//插入指定元素</span></span><br><span class="line">sc.<span class="built_in">begin</span>();<span class="comment">//指向sc第一个元素的迭代器</span></span><br><span class="line">sc.<span class="built_in">end</span>();<span class="comment">//指向sc最后一个元素之后的迭代器</span></span><br><span class="line">sc.<span class="built_in">erase</span>(<span class="number">1</span>);<span class="comment">//删除指定元素，删除成功返回1，否则返回0</span></span><br><span class="line">sc.<span class="built_in">empty</span>();<span class="comment">//判断是否为空，为空返回1，否则返回0</span></span><br><span class="line">sc.<span class="built_in">find</span>(<span class="number">1</span>)<span class="comment">//查找1这个元素，找到返回此元素迭代器，没有找到返回myset.end()</span></span><br><span class="line">sc.<span class="built_in">size</span>();<span class="comment">//返回sc的元素个数</span></span><br><span class="line">sc.<span class="built_in">count</span>(<span class="number">1</span>)<span class="comment">//对1进行计数，存在返回1，不存在返回0</span></span><br><span class="line"><span class="comment">//set的遍历</span></span><br><span class="line"><span class="keyword">for</span>(set&lt;<span class="type">int</span>&gt;::iterator it=sc.<span class="built_in">begin</span>();it!=sc.<span class="built_in">end</span>();it++)</span><br><span class="line">		<span class="built_in">printf</span>(<span class="string">&quot;%d&quot;</span>,*it);</span><br><span class="line"></span><br><span class="line">sc.<span class="built_in">lower_bound</span>(<span class="number">1</span>)<span class="comment">//寻找第一个大于等于1的元素，返回此元素迭代器，未找到返回sc.end()</span></span><br><span class="line">sc.<span class="built_in">upper_bound</span>(<span class="number">1</span>)<span class="comment">//寻找第一个大于1的元素，返回此元素迭代器，未找到返回sc.end()</span></span><br></pre></td></tr></table></figure>
-
-<h2 id="例子"><a href="#例子" class="headerlink" title="例子"></a>例子</h2><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span><span class="string">&lt;set&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="keyword">include</span><span class="string">&lt;stdio.h&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> std;</span><br><span class="line"><span class="function"><span class="type">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">	set&lt;<span class="type">int</span>&gt; sc;</span><br><span class="line">	sc.<span class="built_in">insert</span>(<span class="number">1</span>);</span><br><span class="line">	sc.<span class="built_in">insert</span>(<span class="number">8</span>);</span><br><span class="line">	sc.<span class="built_in">insert</span>(<span class="number">3</span>);</span><br><span class="line">	sc.<span class="built_in">insert</span>(<span class="number">4</span>);</span><br><span class="line">	sc.<span class="built_in">insert</span>(<span class="number">2</span>);</span><br><span class="line">	sc.<span class="built_in">erase</span>(<span class="number">3</span>);</span><br><span class="line">	<span class="keyword">for</span>(set&lt;<span class="type">int</span>&gt;::iterator it=sc.<span class="built_in">begin</span>();it!=sc.<span class="built_in">end</span>();it++)</span><br><span class="line">		<span class="built_in">printf</span>(<span class="string">&quot;%d&quot;</span>,*it);</span><br><span class="line">	<span class="built_in">printf</span>(<span class="string">&quot;\n&quot;</span>);</span><br><span class="line">	sc.<span class="built_in">erase</span>(*sc.<span class="built_in">lower_bound</span>(<span class="number">4</span>));</span><br><span class="line">	<span class="keyword">for</span>(set&lt;<span class="type">int</span>&gt;::iterator it=sc.<span class="built_in">begin</span>();it!=sc.<span class="built_in">end</span>();it++)</span><br><span class="line">		<span class="built_in">printf</span>(<span class="string">&quot;%d&quot;</span>,*it);</span><br><span class="line">	<span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<h2 id="运行结果"><a href="#运行结果" class="headerlink" title="运行结果"></a>运行结果</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">1248</span><br><span class="line">128</span><br></pre></td></tr></table></figure>
-
-<h2 id="练习题目"><a href="#练习题目" class="headerlink" title="练习题目"></a>练习题目</h2><p><strong><a href="https://pintia.cn/problem-sets/994805046380707840/problems/994805070149828608">集合相似度</a></strong></p>
-<p><strong><a href="https://pintia.cn/problem-sets/994805046380707840/problems/994805063166312448">列车调度</a></strong></p>
-<h2 id="往期文章"><a href="#往期文章" class="headerlink" title="往期文章"></a>往期文章</h2><p><strong><a href="/STL%E5%AE%B9%E5%99%A8-set/" title="STL容器-set">STL容器-set</a></strong></p>
-]]></content>
-      <categories>
-        <category>专栏</category>
-        <category>数据结构</category>
-        <category>STL</category>
-      </categories>
-      <tags>
-        <tag>STL</tag>
-        <tag>set</tag>
       </tags>
   </entry>
   <entry>
@@ -559,21 +559,6 @@
       </tags>
   </entry>
   <entry>
-    <title>玩转STL</title>
-    <url>/%E7%8E%A9%E8%BD%ACSTL/</url>
-    <content><![CDATA[<p>(￣▽￣)～■□～(￣▽￣)</p>
-<p>记录C++的STL库</p>
-<h5 id="专栏目录"><a href="#专栏目录" class="headerlink" title="专栏目录"></a>专栏目录</h5><h5 id=""><a href="#" class="headerlink" title=""></a><a href="/STL%E5%AE%B9%E5%99%A8-set/" title="STL容器-set">STL容器-set</a></h5>]]></content>
-      <categories>
-        <category>专栏</category>
-        <category>数据结构</category>
-        <category>STL</category>
-      </categories>
-      <tags>
-        <tag>STL</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>添加SSH公钥</title>
     <url>/%E6%B7%BB%E5%8A%A0SSH%E5%85%AC%E9%92%A5/</url>
     <content><![CDATA[<p>最近想要无密码登陆linux服务器，故记录步骤如下：</p>
@@ -598,6 +583,43 @@
       <tags>
         <tag>Linux</tag>
         <tag>无密码登录</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>玩转Jenkins</title>
+    <url>/%E7%8E%A9%E8%BD%ACJenkins/</url>
+    <content><![CDATA[<h3 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h3><p>​          Jenkins是一个开源的、提供友好操作界面的持续集成(CI)工具。它可以根据设定持续定期编译，运行相应代码；运行UT或集成测试；将运行结果发送至邮件，或展示成报告。</p>
+<p>​         本文将介绍Jenkins的下载安装，Jenkins集成邮件服务系统、SVN版本控制工具，Ant构建工具以及静态分析工具Checkstyle、Findbugs、PMD，运用流水线</p>
+<h3 id="目录"><a href="#目录" class="headerlink" title="目录"></a>目录</h3><p>​        <a href="/Jenkins%E7%9A%84%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85/" title="Jenkins的下载安装">Jenkins的下载安装</a></p>
+<p>​        Jenkins集成邮件服务系统</p>
+<p>​        SVN版本控制工具</p>
+<p>​        Jenkins配置ant、maven、java、git</p>
+<p>​        Jenkins集成静态分析工具Checkstyle、Findbugs、PMD</p>
+<p>​        Jenkins集成流水线</p>
+<p>​        CI&#x2F;CD</p>
+]]></content>
+      <categories>
+        <category>专栏</category>
+        <category>Jenkins</category>
+      </categories>
+      <tags>
+        <tag>Jenkins</tag>
+        <tag>CI/CD</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>玩转STL</title>
+    <url>/%E7%8E%A9%E8%BD%ACSTL/</url>
+    <content><![CDATA[<p>(￣▽￣)～■□～(￣▽￣)</p>
+<p>记录C++的STL库</p>
+<h5 id="专栏目录"><a href="#专栏目录" class="headerlink" title="专栏目录"></a>专栏目录</h5><h5 id=""><a href="#" class="headerlink" title=""></a><a href="/STL%E5%AE%B9%E5%99%A8-set/" title="STL容器-set">STL容器-set</a></h5>]]></content>
+      <categories>
+        <category>专栏</category>
+        <category>数据结构</category>
+        <category>STL</category>
+      </categories>
+      <tags>
+        <tag>STL</tag>
       </tags>
   </entry>
   <entry>
@@ -658,7 +680,7 @@
 </tr>
 <tr>
 <td>SMTP_USER</td>
-<td><a href="mailto:&#x31;&#x39;&#x38;&#50;&#x39;&#56;&#57;&#49;&#51;&#x37;&#64;&#113;&#113;&#46;&#99;&#111;&#x6d;">&#x31;&#x39;&#x38;&#50;&#x39;&#56;&#57;&#49;&#51;&#x37;&#64;&#113;&#113;&#46;&#99;&#111;&#x6d;</a></td>
+<td><a href="mailto:&#x31;&#57;&#x38;&#50;&#x39;&#56;&#57;&#x31;&#51;&#x37;&#x40;&#x71;&#113;&#46;&#x63;&#x6f;&#x6d;">&#x31;&#57;&#x38;&#50;&#x39;&#56;&#57;&#x31;&#51;&#x37;&#x40;&#x71;&#113;&#46;&#x63;&#x6f;&#x6d;</a></td>
 <td>[必填] 邮箱账号</td>
 </tr>
 <tr>
@@ -668,7 +690,7 @@
 </tr>
 <tr>
 <td>TO_EMAIL</td>
-<td><a href="mailto:&#49;&#x39;&#x38;&#x32;&#57;&#x38;&#x39;&#x31;&#51;&#x37;&#64;&#113;&#x71;&#46;&#99;&#x6f;&#109;">&#49;&#x39;&#x38;&#x32;&#57;&#x38;&#x39;&#x31;&#51;&#x37;&#64;&#113;&#x71;&#46;&#99;&#x6f;&#109;</a></td>
+<td><a href="mailto:&#49;&#57;&#x38;&#50;&#57;&#56;&#x39;&#49;&#51;&#x37;&#x40;&#x71;&#x71;&#x2e;&#99;&#x6f;&#x6d;">&#49;&#57;&#x38;&#50;&#57;&#56;&#x39;&#49;&#51;&#x37;&#x40;&#x71;&#x71;&#x2e;&#99;&#x6f;&#x6d;</a></td>
 <td>指定站长收信邮箱</td>
 </tr>
 </tbody></table>
@@ -718,28 +740,6 @@
       </categories>
       <tags>
         <tag>玩转服务器</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>玩转Jenkins</title>
-    <url>/%E7%8E%A9%E8%BD%ACJenkins/</url>
-    <content><![CDATA[<h3 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h3><p>​          Jenkins是一个开源的、提供友好操作界面的持续集成(CI)工具。它可以根据设定持续定期编译，运行相应代码；运行UT或集成测试；将运行结果发送至邮件，或展示成报告。</p>
-<p>​         本文将介绍Jenkins的下载安装，Jenkins集成邮件服务系统、SVN版本控制工具，Ant构建工具以及静态分析工具Checkstyle、Findbugs、PMD，运用流水线</p>
-<h3 id="目录"><a href="#目录" class="headerlink" title="目录"></a>目录</h3><p>​        <a href="/Jenkins%E7%9A%84%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85/" title="Jenkins的下载安装">Jenkins的下载安装</a></p>
-<p>​        Jenkins集成邮件服务系统</p>
-<p>​        SVN版本控制工具</p>
-<p>​        Jenkins配置ant、maven、java、git</p>
-<p>​        Jenkins集成静态分析工具Checkstyle、Findbugs、PMD</p>
-<p>​        Jenkins集成流水线</p>
-<p>​        CI&#x2F;CD</p>
-]]></content>
-      <categories>
-        <category>专栏</category>
-        <category>Jenkins</category>
-      </categories>
-      <tags>
-        <tag>Jenkins</tag>
-        <tag>CI/CD</tag>
       </tags>
   </entry>
 </search>
