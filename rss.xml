@@ -3,11 +3,11 @@
   <title>笔尖少年</title>
   
   <subtitle>o(*^▽^*)┛</subtitle>
-  <link href="https://panghai.top/rss.xml" rel="self"/>
+  <link href="https://next.panghai.top/rss.xml" rel="self"/>
   
-  <link href="https://panghai.top/"/>
+  <link href="https://next.panghai.top/"/>
   <updated>2022-06-05T15:50:09.044Z</updated>
-  <id>https://panghai.top/</id>
+  <id>https://next.panghai.top/</id>
   
   <author>
     <name>笔尖少年</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Linux一键安装Redis</title>
-    <link href="https://panghai.top/Linux%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85Redis/"/>
-    <id>https://panghai.top/Linux%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85Redis/</id>
+    <link href="https://next.panghai.top/Linux%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85Redis/"/>
+    <id>https://next.panghai.top/Linux%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85Redis/</id>
     <published>2022-06-05T15:49:03.000Z</published>
     <updated>2022-06-05T15:50:09.044Z</updated>
     
@@ -34,23 +34,23 @@
     
     
     
-    <category term="专栏" scheme="https://panghai.top/categories/%E4%B8%93%E6%A0%8F/"/>
+    <category term="专栏" scheme="https://next.panghai.top/categories/%E4%B8%93%E6%A0%8F/"/>
     
-    <category term="Redis" scheme="https://panghai.top/categories/%E4%B8%93%E6%A0%8F/Redis/"/>
+    <category term="Redis" scheme="https://next.panghai.top/categories/%E4%B8%93%E6%A0%8F/Redis/"/>
     
-    <category term="安装Redis开发环境" scheme="https://panghai.top/categories/%E4%B8%93%E6%A0%8F/Redis/%E5%AE%89%E8%A3%85Redis%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/"/>
+    <category term="安装Redis开发环境" scheme="https://next.panghai.top/categories/%E4%B8%93%E6%A0%8F/Redis/%E5%AE%89%E8%A3%85Redis%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/"/>
     
     
-    <category term="Linux" scheme="https://panghai.top/tags/Linux/"/>
+    <category term="Linux" scheme="https://next.panghai.top/tags/Linux/"/>
     
-    <category term="安装Redis开发环境" scheme="https://panghai.top/tags/%E5%AE%89%E8%A3%85Redis%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/"/>
+    <category term="安装Redis开发环境" scheme="https://next.panghai.top/tags/%E5%AE%89%E8%A3%85Redis%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/"/>
     
   </entry>
   
   <entry>
     <title>Linux一键安装MySQL</title>
-    <link href="https://panghai.top/Linux%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85MySQL/"/>
-    <id>https://panghai.top/Linux%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85MySQL/</id>
+    <link href="https://next.panghai.top/Linux%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85MySQL/"/>
+    <id>https://next.panghai.top/Linux%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85MySQL/</id>
     <published>2022-06-05T15:38:38.000Z</published>
     <updated>2022-06-07T15:21:01.748Z</updated>
     
@@ -65,23 +65,23 @@
     
     
     
-    <category term="专栏" scheme="https://panghai.top/categories/%E4%B8%93%E6%A0%8F/"/>
+    <category term="专栏" scheme="https://next.panghai.top/categories/%E4%B8%93%E6%A0%8F/"/>
     
-    <category term="MySQL" scheme="https://panghai.top/categories/%E4%B8%93%E6%A0%8F/MySQL/"/>
+    <category term="MySQL" scheme="https://next.panghai.top/categories/%E4%B8%93%E6%A0%8F/MySQL/"/>
     
-    <category term="安装MySQL开发环境" scheme="https://panghai.top/categories/%E4%B8%93%E6%A0%8F/MySQL/%E5%AE%89%E8%A3%85MySQL%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/"/>
+    <category term="安装MySQL开发环境" scheme="https://next.panghai.top/categories/%E4%B8%93%E6%A0%8F/MySQL/%E5%AE%89%E8%A3%85MySQL%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/"/>
     
     
-    <category term="Linux" scheme="https://panghai.top/tags/Linux/"/>
+    <category term="Linux" scheme="https://next.panghai.top/tags/Linux/"/>
     
-    <category term="安装MySQL开发环境" scheme="https://panghai.top/tags/%E5%AE%89%E8%A3%85MySQL%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/"/>
+    <category term="安装MySQL开发环境" scheme="https://next.panghai.top/tags/%E5%AE%89%E8%A3%85MySQL%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/"/>
     
   </entry>
   
   <entry>
     <title>Linux一键安装Java</title>
-    <link href="https://panghai.top/Linux%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85Java/"/>
-    <id>https://panghai.top/Linux%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85Java/</id>
+    <link href="https://next.panghai.top/Linux%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85Java/"/>
+    <id>https://next.panghai.top/Linux%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85Java/</id>
     <published>2022-06-05T15:33:19.000Z</published>
     <updated>2022-06-05T15:41:28.279Z</updated>
     
@@ -96,23 +96,23 @@
     
     
     
-    <category term="专栏" scheme="https://panghai.top/categories/%E4%B8%93%E6%A0%8F/"/>
+    <category term="专栏" scheme="https://next.panghai.top/categories/%E4%B8%93%E6%A0%8F/"/>
     
-    <category term="Linux" scheme="https://panghai.top/categories/%E4%B8%93%E6%A0%8F/Linux/"/>
+    <category term="Linux" scheme="https://next.panghai.top/categories/%E4%B8%93%E6%A0%8F/Linux/"/>
     
-    <category term="安装Java开发环境" scheme="https://panghai.top/categories/%E4%B8%93%E6%A0%8F/Linux/%E5%AE%89%E8%A3%85Java%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/"/>
+    <category term="安装Java开发环境" scheme="https://next.panghai.top/categories/%E4%B8%93%E6%A0%8F/Linux/%E5%AE%89%E8%A3%85Java%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/"/>
     
     
-    <category term="Linux" scheme="https://panghai.top/tags/Linux/"/>
+    <category term="Linux" scheme="https://next.panghai.top/tags/Linux/"/>
     
-    <category term="安装Java开发环境" scheme="https://panghai.top/tags/%E5%AE%89%E8%A3%85Java%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/"/>
+    <category term="安装Java开发环境" scheme="https://next.panghai.top/tags/%E5%AE%89%E8%A3%85Java%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/"/>
     
   </entry>
   
   <entry>
     <title>Jenkins的下载安装</title>
-    <link href="https://panghai.top/Jenkins%E7%9A%84%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85/"/>
-    <id>https://panghai.top/Jenkins%E7%9A%84%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85/</id>
+    <link href="https://next.panghai.top/Jenkins%E7%9A%84%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85/"/>
+    <id>https://next.panghai.top/Jenkins%E7%9A%84%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85/</id>
     <published>2022-05-31T07:08:44.000Z</published>
     <updated>2022-05-31T10:05:49.070Z</updated>
     
@@ -131,19 +131,19 @@
     
     
     
-    <category term="专栏" scheme="https://panghai.top/categories/%E4%B8%93%E6%A0%8F/"/>
+    <category term="专栏" scheme="https://next.panghai.top/categories/%E4%B8%93%E6%A0%8F/"/>
     
-    <category term="Jenkins" scheme="https://panghai.top/categories/%E4%B8%93%E6%A0%8F/Jenkins/"/>
+    <category term="Jenkins" scheme="https://next.panghai.top/categories/%E4%B8%93%E6%A0%8F/Jenkins/"/>
     
     
-    <category term="Jenkins的下载安装" scheme="https://panghai.top/tags/Jenkins%E7%9A%84%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85/"/>
+    <category term="Jenkins的下载安装" scheme="https://next.panghai.top/tags/Jenkins%E7%9A%84%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85/"/>
     
   </entry>
   
   <entry>
     <title>玩转Jenkins</title>
-    <link href="https://panghai.top/%E7%8E%A9%E8%BD%ACJenkins/"/>
-    <id>https://panghai.top/%E7%8E%A9%E8%BD%ACJenkins/</id>
+    <link href="https://next.panghai.top/%E7%8E%A9%E8%BD%ACJenkins/"/>
+    <id>https://next.panghai.top/%E7%8E%A9%E8%BD%ACJenkins/</id>
     <published>2022-05-31T03:48:42.000Z</published>
     <updated>2022-06-07T08:07:02.385Z</updated>
     
@@ -157,21 +157,21 @@
     
     
     
-    <category term="专栏" scheme="https://panghai.top/categories/%E4%B8%93%E6%A0%8F/"/>
+    <category term="专栏" scheme="https://next.panghai.top/categories/%E4%B8%93%E6%A0%8F/"/>
     
-    <category term="Jenkins" scheme="https://panghai.top/categories/%E4%B8%93%E6%A0%8F/Jenkins/"/>
+    <category term="Jenkins" scheme="https://next.panghai.top/categories/%E4%B8%93%E6%A0%8F/Jenkins/"/>
     
     
-    <category term="Jenkins" scheme="https://panghai.top/tags/Jenkins/"/>
+    <category term="Jenkins" scheme="https://next.panghai.top/tags/Jenkins/"/>
     
-    <category term="CI/CD" scheme="https://panghai.top/tags/CI-CD/"/>
+    <category term="CI/CD" scheme="https://next.panghai.top/tags/CI-CD/"/>
     
   </entry>
   
   <entry>
     <title>SpringBoot集成WebSocket的简单示例</title>
-    <link href="https://panghai.top/SpringBoot%E9%9B%86%E6%88%90WebSocket%E7%9A%84%E7%AE%80%E5%8D%95%E7%A4%BA%E4%BE%8B/"/>
-    <id>https://panghai.top/SpringBoot%E9%9B%86%E6%88%90WebSocket%E7%9A%84%E7%AE%80%E5%8D%95%E7%A4%BA%E4%BE%8B/</id>
+    <link href="https://next.panghai.top/SpringBoot%E9%9B%86%E6%88%90WebSocket%E7%9A%84%E7%AE%80%E5%8D%95%E7%A4%BA%E4%BE%8B/"/>
+    <id>https://next.panghai.top/SpringBoot%E9%9B%86%E6%88%90WebSocket%E7%9A%84%E7%AE%80%E5%8D%95%E7%A4%BA%E4%BE%8B/</id>
     <published>2022-05-17T15:35:25.000Z</published>
     <updated>2022-05-22T11:10:34.144Z</updated>
     
@@ -191,27 +191,27 @@
     
     
     
-    <category term="专栏" scheme="https://panghai.top/categories/%E4%B8%93%E6%A0%8F/"/>
+    <category term="专栏" scheme="https://next.panghai.top/categories/%E4%B8%93%E6%A0%8F/"/>
     
-    <category term="Java技术栈" scheme="https://panghai.top/categories/%E4%B8%93%E6%A0%8F/Java%E6%8A%80%E6%9C%AF%E6%A0%88/"/>
+    <category term="Java技术栈" scheme="https://next.panghai.top/categories/%E4%B8%93%E6%A0%8F/Java%E6%8A%80%E6%9C%AF%E6%A0%88/"/>
     
-    <category term="WebSocket" scheme="https://panghai.top/categories/%E4%B8%93%E6%A0%8F/Java%E6%8A%80%E6%9C%AF%E6%A0%88/WebSocket/"/>
+    <category term="WebSocket" scheme="https://next.panghai.top/categories/%E4%B8%93%E6%A0%8F/Java%E6%8A%80%E6%9C%AF%E6%A0%88/WebSocket/"/>
     
     
-    <category term="WebSocket" scheme="https://panghai.top/tags/WebSocket/"/>
+    <category term="WebSocket" scheme="https://next.panghai.top/tags/WebSocket/"/>
     
-    <category term="SpringBoot" scheme="https://panghai.top/tags/SpringBoot/"/>
+    <category term="SpringBoot" scheme="https://next.panghai.top/tags/SpringBoot/"/>
     
-    <category term="通信协议" scheme="https://panghai.top/tags/%E9%80%9A%E4%BF%A1%E5%8D%8F%E8%AE%AE/"/>
+    <category term="通信协议" scheme="https://next.panghai.top/tags/%E9%80%9A%E4%BF%A1%E5%8D%8F%E8%AE%AE/"/>
     
-    <category term="全双工通讯" scheme="https://panghai.top/tags/%E5%85%A8%E5%8F%8C%E5%B7%A5%E9%80%9A%E8%AE%AF/"/>
+    <category term="全双工通讯" scheme="https://next.panghai.top/tags/%E5%85%A8%E5%8F%8C%E5%B7%A5%E9%80%9A%E8%AE%AF/"/>
     
   </entry>
   
   <entry>
     <title>数据库如何防止暴力破解</title>
-    <link href="https://panghai.top/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%A6%82%E4%BD%95%E9%98%B2%E6%AD%A2%E6%9A%B4%E5%8A%9B%E7%A0%B4%E8%A7%A3/"/>
-    <id>https://panghai.top/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%A6%82%E4%BD%95%E9%98%B2%E6%AD%A2%E6%9A%B4%E5%8A%9B%E7%A0%B4%E8%A7%A3/</id>
+    <link href="https://next.panghai.top/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%A6%82%E4%BD%95%E9%98%B2%E6%AD%A2%E6%9A%B4%E5%8A%9B%E7%A0%B4%E8%A7%A3/"/>
+    <id>https://next.panghai.top/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%A6%82%E4%BD%95%E9%98%B2%E6%AD%A2%E6%9A%B4%E5%8A%9B%E7%A0%B4%E8%A7%A3/</id>
     <published>2022-05-14T14:35:10.000Z</published>
     <updated>2022-05-17T09:36:17.379Z</updated>
     
@@ -223,27 +223,27 @@
     
     
     
-    <category term="专栏" scheme="https://panghai.top/categories/%E4%B8%93%E6%A0%8F/"/>
+    <category term="专栏" scheme="https://next.panghai.top/categories/%E4%B8%93%E6%A0%8F/"/>
     
-    <category term="MySQL" scheme="https://panghai.top/categories/%E4%B8%93%E6%A0%8F/MySQL/"/>
+    <category term="MySQL" scheme="https://next.panghai.top/categories/%E4%B8%93%E6%A0%8F/MySQL/"/>
     
     
-    <category term="MySQL" scheme="https://panghai.top/tags/MySQL/"/>
+    <category term="MySQL" scheme="https://next.panghai.top/tags/MySQL/"/>
     
-    <category term="数据库安全" scheme="https://panghai.top/tags/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AE%89%E5%85%A8/"/>
+    <category term="数据库安全" scheme="https://next.panghai.top/tags/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AE%89%E5%85%A8/"/>
     
-    <category term="暴力破解" scheme="https://panghai.top/tags/%E6%9A%B4%E5%8A%9B%E7%A0%B4%E8%A7%A3/"/>
+    <category term="暴力破解" scheme="https://next.panghai.top/tags/%E6%9A%B4%E5%8A%9B%E7%A0%B4%E8%A7%A3/"/>
     
   </entry>
   
   <entry>
     <title>玩转Valine评论系统</title>
-    <link href="https://panghai.top/%E7%8E%A9%E8%BD%ACValine%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F/"/>
-    <id>https://panghai.top/%E7%8E%A9%E8%BD%ACValine%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F/</id>
+    <link href="https://next.panghai.top/%E7%8E%A9%E8%BD%ACValine%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F/"/>
+    <id>https://next.panghai.top/%E7%8E%A9%E8%BD%ACValine%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F/</id>
     <published>2022-05-11T15:17:06.000Z</published>
     <updated>2022-05-11T16:14:43.806Z</updated>
     
-    <content type="html"><![CDATA[<p>先上效果</p><img data-src="/%E7%8E%A9%E8%BD%ACValine%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F/%E8%AF%84%E8%AE%BA%E7%95%8C%E9%9D%A2.png" class=""><p>原本是用<a href="https://gitalk.github.io/">Gitalk</a>作为本博客的评论系统，但由于最近Gitalk不知什么原因网络错误，导致评论系统无法使用。</p><img data-src="/%E7%8E%A9%E8%BD%ACValine%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F/gitalk.png" class=""><p>故今天使用<a href="https://valine.js.org/">Valine</a>来替换<a href="https://gitalk.github.io/">Gitalk</a>，主要分为以下步骤：</p><span id="more"></span><h4 id="leancloud的使用"><a href="#leancloud的使用" class="headerlink" title="leancloud的使用"></a>leancloud的使用</h4><p>由于Valine是需要一个后端来支持它的评论系统，故先注册<a href="https://www.leancloud.cn/">leancloud</a>，注册完后首先实名认证，认证后创建应用，开发版即可。</p><img data-src="/%E7%8E%A9%E8%BD%ACValine%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F/%E5%88%9B%E5%BB%BAleancloud%E5%BA%94%E7%94%A8.png" class=""><h4 id="添加环境变量"><a href="#添加环境变量" class="headerlink" title="添加环境变量"></a>添加环境变量</h4><img data-src="/%E7%8E%A9%E8%BD%ACValine%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F/%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F.png" class=""><p>变量解释如下：</p><table><thead><tr><th>变量</th><th>示例</th><th>说明</th></tr></thead><tbody><tr><td>ADMIN_URL</td><td><a href="https://gianter.top/">https://gianter.top</a></td><td>管理评论的域名（需备案），如不需要管理则不填</td></tr><tr><td>SENDER_NAME</td><td>笔尖少年</td><td>发件人</td></tr><tr><td>SITE_NAME</td><td>笔尖少年</td><td>[必填] 博客名称</td></tr><tr><td>SITE_URL</td><td><a href="https://panghai.top/">https://panghai.top</a></td><td>[必填] 博客网址</td></tr><tr><td>SMTP_PASS</td><td>xxxxxxxxxxxxxx</td><td>[必填] 邮箱授权码</td></tr><tr><td>SMTP_SERVICE</td><td>QQ</td><td>[必填] 邮箱类型</td></tr><tr><td>SMTP_USER</td><td><a href="mailto:&#x31;&#x39;&#56;&#50;&#57;&#56;&#57;&#49;&#51;&#55;&#64;&#x71;&#x71;&#x2e;&#99;&#111;&#109;">&#x31;&#x39;&#56;&#50;&#57;&#56;&#57;&#49;&#51;&#55;&#64;&#x71;&#x71;&#x2e;&#99;&#111;&#109;</a></td><td>[必填] 邮箱账号</td></tr><tr><td>TEMPLATE_NAME</td><td>rainbow</td><td>邮件模板（default和rainbow）</td></tr><tr><td>TO_EMAIL</td><td><a href="mailto:&#49;&#57;&#x38;&#50;&#57;&#56;&#x39;&#x31;&#x33;&#x37;&#64;&#x71;&#113;&#x2e;&#x63;&#x6f;&#x6d;">&#49;&#57;&#x38;&#50;&#57;&#56;&#x39;&#x31;&#x33;&#x37;&#64;&#x71;&#113;&#x2e;&#x63;&#x6f;&#x6d;</a></td><td>指定站长收信邮箱</td></tr></tbody></table><h4 id="部署"><a href="#部署" class="headerlink" title="部署"></a>部署</h4><p>依次点击云引擎-&gt;WEB-&gt;部署，git地址为<a href="https://github.com/DesertsP/Valine-Admin.git%EF%BC%8C%E5%A6%82%E6%9E%9C%E6%B5%8B%E8%AF%95%E6%88%90%E5%8A%9F%EF%BC%8C%E5%86%8D%E5%8E%BBfork%EF%BC%8C%E6%94%B9%E5%9B%9E%E8%87%AA%E5%B7%B1%E7%9A%84%E4%BB%93%E5%BA%93%E5%90%8D%EF%BC%8C%E6%AF%94%E8%BE%83%E7%A8%B3%E5%AE%9A%E3%80%82">https://github.com/DesertsP/Valine-Admin.git，如果测试成功，再去fork，改回自己的仓库名，比较稳定。</a></p><p>选择master分支后部署，第一次有点久。</p><img data-src="/%E7%8E%A9%E8%BD%ACValine%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F/%E9%83%A8%E7%BD%B2.png" class=""><h4 id="后台评论管理"><a href="#后台评论管理" class="headerlink" title="后台评论管理"></a>后台评论管理</h4><p>点击 云引擎 -&gt; WEB -&gt;设置 -&gt; 绑定新域名，添加已备案的域名，去域名商添加CNAME记录，稍后即可绑定成功。</p><h4 id="添加管理员账号"><a href="#添加管理员账号" class="headerlink" title="添加管理员账号"></a>添加管理员账号</h4><p>点击 存储 -&gt; 结构化数据，选择_User如果有内容，全部删除，这里是需要新建后台管理的账户。<br>选择_User -&gt; 添加行，只需要填写password、username。</p><h4 id="登录后台评论"><a href="#登录后台评论" class="headerlink" title="登录后台评论"></a>登录后台评论</h4><p>填写刚刚设置的username、password即可。</p><img data-src="/%E7%8E%A9%E8%BD%ACValine%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F/%E8%AF%84%E8%AE%BA%E7%AE%A1%E7%90%86.png" class=""><h4 id="定时任务"><a href="#定时任务" class="headerlink" title="定时任务"></a>定时任务</h4><p>LeanCloud 容器，是有强制性休眠策略的，不能 24 小时运行：每天必须休眠 6 个小时，30 分钟内没有外部请求，则休眠所以需要定时任务进行休眠，步骤如下</p><p>1、点击云引擎-&gt; 定时任务，创建定时任务，名称任意，生产环境选择self-wake云函数，Cron表达式填入0 *&#x2F;20 7-23 * * ?，表示每天 7 - 23 点每 20 分钟访问一次，这样可以保持每天的绝大多数时间邮件服务是正常的。</p><p>2、配置定时检查，创建定时任务，名称任意，生产环境选择resend-mails云函数，Cron表达式填入0 0 8 * * ?，表示每天早8点检查过去24小时内漏发的通知邮件并补发</p><h4 id="修改主题配置文件"><a href="#修改主题配置文件" class="headerlink" title="修改主题配置文件"></a>修改主题配置文件</h4><p>修改在blog&#x2F;themes&#x2F;next目录下的_config.yml</p><figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">valine:</span></span><br><span class="line">  <span class="attr">enable:</span> <span class="literal">true</span></span><br><span class="line">  <span class="attr">appid:</span> <span class="string">xxxxxxxxxxxxx</span></span><br><span class="line">  <span class="attr">appkey:</span> <span class="string">xxxxxxxxxxxx</span></span><br><span class="line">  <span class="attr">notify:</span> <span class="literal">true</span> <span class="comment"># Mail notifier</span></span><br><span class="line">  <span class="attr">verify:</span> <span class="literal">true</span> <span class="comment"># Verification code</span></span><br><span class="line">  <span class="attr">placeholder:</span> <span class="string">欢迎留言，一起进步</span> <span class="comment"># Comment box placeholder</span></span><br><span class="line">  <span class="attr">avatar:</span> <span class="string">mm</span> <span class="comment"># Gravatar style</span></span><br><span class="line">  <span class="attr">guest_info:</span> <span class="string">nick,mail,link</span> <span class="comment"># Custom comment header</span></span><br><span class="line">  <span class="attr">pageSize:</span> <span class="number">10</span> <span class="comment"># Pagination size</span></span><br><span class="line">  <span class="attr">language:</span> <span class="string">zh-cn</span> <span class="comment"># Language, available values: en, zh-cn</span></span><br><span class="line">  <span class="attr">visitor:</span> <span class="literal">true</span> <span class="comment"># Article reading statistic</span></span><br><span class="line">  <span class="attr">comment_count:</span> <span class="literal">true</span> <span class="comment"># If false, comment count will only be displayed in post page, not in home page</span></span><br><span class="line">  <span class="attr">recordIP:</span> <span class="literal">true</span> <span class="comment"># Whether to record the commenter IP</span></span><br><span class="line">  <span class="attr">serverURLs:</span> <span class="comment"># When the custom domain name is enabled, fill it in here (it will be detected automatically by default, no need to fill in)</span></span><br><span class="line">  <span class="comment">#post_meta_order: 0</span></span><br></pre></td></tr></table></figure><p>重新部署后测试一下：</p><img data-src="/%E7%8E%A9%E8%BD%ACValine%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F/%E6%B5%8B%E8%AF%95%E8%AF%84%E8%AE%BA.png" class=""><p>完成！</p><h4 id="参考文章"><a href="#参考文章" class="headerlink" title="参考文章"></a>参考文章</h4><p><a href="https://blog.csdn.net/Aoman_Hao/article/details/105323917">Hexo博客Next主题valine评论系统邮件提醒</a></p>]]></content>
+    <content type="html"><![CDATA[<p>先上效果</p><img data-src="/%E7%8E%A9%E8%BD%ACValine%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F/%E8%AF%84%E8%AE%BA%E7%95%8C%E9%9D%A2.png" class=""><p>原本是用<a href="https://gitalk.github.io/">Gitalk</a>作为本博客的评论系统，但由于最近Gitalk不知什么原因网络错误，导致评论系统无法使用。</p><img data-src="/%E7%8E%A9%E8%BD%ACValine%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F/gitalk.png" class=""><p>故今天使用<a href="https://valine.js.org/">Valine</a>来替换<a href="https://gitalk.github.io/">Gitalk</a>，主要分为以下步骤：</p><span id="more"></span><h4 id="leancloud的使用"><a href="#leancloud的使用" class="headerlink" title="leancloud的使用"></a>leancloud的使用</h4><p>由于Valine是需要一个后端来支持它的评论系统，故先注册<a href="https://www.leancloud.cn/">leancloud</a>，注册完后首先实名认证，认证后创建应用，开发版即可。</p><img data-src="/%E7%8E%A9%E8%BD%ACValine%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F/%E5%88%9B%E5%BB%BAleancloud%E5%BA%94%E7%94%A8.png" class=""><h4 id="添加环境变量"><a href="#添加环境变量" class="headerlink" title="添加环境变量"></a>添加环境变量</h4><img data-src="/%E7%8E%A9%E8%BD%ACValine%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F/%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F.png" class=""><p>变量解释如下：</p><table><thead><tr><th>变量</th><th>示例</th><th>说明</th></tr></thead><tbody><tr><td>ADMIN_URL</td><td><a href="https://gianter.top/">https://gianter.top</a></td><td>管理评论的域名（需备案），如不需要管理则不填</td></tr><tr><td>SENDER_NAME</td><td>笔尖少年</td><td>发件人</td></tr><tr><td>SITE_NAME</td><td>笔尖少年</td><td>[必填] 博客名称</td></tr><tr><td>SITE_URL</td><td><a href="https://panghai.top/">https://panghai.top</a></td><td>[必填] 博客网址</td></tr><tr><td>SMTP_PASS</td><td>xxxxxxxxxxxxxx</td><td>[必填] 邮箱授权码</td></tr><tr><td>SMTP_SERVICE</td><td>QQ</td><td>[必填] 邮箱类型</td></tr><tr><td>SMTP_USER</td><td><a href="mailto:&#x31;&#x39;&#x38;&#50;&#x39;&#56;&#57;&#49;&#51;&#x37;&#64;&#113;&#113;&#46;&#99;&#111;&#x6d;">&#x31;&#x39;&#x38;&#50;&#x39;&#56;&#57;&#49;&#51;&#x37;&#64;&#113;&#113;&#46;&#99;&#111;&#x6d;</a></td><td>[必填] 邮箱账号</td></tr><tr><td>TEMPLATE_NAME</td><td>rainbow</td><td>邮件模板（default和rainbow）</td></tr><tr><td>TO_EMAIL</td><td><a href="mailto:&#49;&#x39;&#x38;&#x32;&#57;&#x38;&#x39;&#x31;&#51;&#x37;&#64;&#113;&#x71;&#46;&#99;&#x6f;&#109;">&#49;&#x39;&#x38;&#x32;&#57;&#x38;&#x39;&#x31;&#51;&#x37;&#64;&#113;&#x71;&#46;&#99;&#x6f;&#109;</a></td><td>指定站长收信邮箱</td></tr></tbody></table><h4 id="部署"><a href="#部署" class="headerlink" title="部署"></a>部署</h4><p>依次点击云引擎-&gt;WEB-&gt;部署，git地址为<a href="https://github.com/DesertsP/Valine-Admin.git%EF%BC%8C%E5%A6%82%E6%9E%9C%E6%B5%8B%E8%AF%95%E6%88%90%E5%8A%9F%EF%BC%8C%E5%86%8D%E5%8E%BBfork%EF%BC%8C%E6%94%B9%E5%9B%9E%E8%87%AA%E5%B7%B1%E7%9A%84%E4%BB%93%E5%BA%93%E5%90%8D%EF%BC%8C%E6%AF%94%E8%BE%83%E7%A8%B3%E5%AE%9A%E3%80%82">https://github.com/DesertsP/Valine-Admin.git，如果测试成功，再去fork，改回自己的仓库名，比较稳定。</a></p><p>选择master分支后部署，第一次有点久。</p><img data-src="/%E7%8E%A9%E8%BD%ACValine%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F/%E9%83%A8%E7%BD%B2.png" class=""><h4 id="后台评论管理"><a href="#后台评论管理" class="headerlink" title="后台评论管理"></a>后台评论管理</h4><p>点击 云引擎 -&gt; WEB -&gt;设置 -&gt; 绑定新域名，添加已备案的域名，去域名商添加CNAME记录，稍后即可绑定成功。</p><h4 id="添加管理员账号"><a href="#添加管理员账号" class="headerlink" title="添加管理员账号"></a>添加管理员账号</h4><p>点击 存储 -&gt; 结构化数据，选择_User如果有内容，全部删除，这里是需要新建后台管理的账户。<br>选择_User -&gt; 添加行，只需要填写password、username。</p><h4 id="登录后台评论"><a href="#登录后台评论" class="headerlink" title="登录后台评论"></a>登录后台评论</h4><p>填写刚刚设置的username、password即可。</p><img data-src="/%E7%8E%A9%E8%BD%ACValine%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F/%E8%AF%84%E8%AE%BA%E7%AE%A1%E7%90%86.png" class=""><h4 id="定时任务"><a href="#定时任务" class="headerlink" title="定时任务"></a>定时任务</h4><p>LeanCloud 容器，是有强制性休眠策略的，不能 24 小时运行：每天必须休眠 6 个小时，30 分钟内没有外部请求，则休眠所以需要定时任务进行休眠，步骤如下</p><p>1、点击云引擎-&gt; 定时任务，创建定时任务，名称任意，生产环境选择self-wake云函数，Cron表达式填入0 *&#x2F;20 7-23 * * ?，表示每天 7 - 23 点每 20 分钟访问一次，这样可以保持每天的绝大多数时间邮件服务是正常的。</p><p>2、配置定时检查，创建定时任务，名称任意，生产环境选择resend-mails云函数，Cron表达式填入0 0 8 * * ?，表示每天早8点检查过去24小时内漏发的通知邮件并补发</p><h4 id="修改主题配置文件"><a href="#修改主题配置文件" class="headerlink" title="修改主题配置文件"></a>修改主题配置文件</h4><p>修改在blog&#x2F;themes&#x2F;next目录下的_config.yml</p><figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">valine:</span></span><br><span class="line">  <span class="attr">enable:</span> <span class="literal">true</span></span><br><span class="line">  <span class="attr">appid:</span> <span class="string">xxxxxxxxxxxxx</span></span><br><span class="line">  <span class="attr">appkey:</span> <span class="string">xxxxxxxxxxxx</span></span><br><span class="line">  <span class="attr">notify:</span> <span class="literal">true</span> <span class="comment"># Mail notifier</span></span><br><span class="line">  <span class="attr">verify:</span> <span class="literal">true</span> <span class="comment"># Verification code</span></span><br><span class="line">  <span class="attr">placeholder:</span> <span class="string">欢迎留言，一起进步</span> <span class="comment"># Comment box placeholder</span></span><br><span class="line">  <span class="attr">avatar:</span> <span class="string">mm</span> <span class="comment"># Gravatar style</span></span><br><span class="line">  <span class="attr">guest_info:</span> <span class="string">nick,mail,link</span> <span class="comment"># Custom comment header</span></span><br><span class="line">  <span class="attr">pageSize:</span> <span class="number">10</span> <span class="comment"># Pagination size</span></span><br><span class="line">  <span class="attr">language:</span> <span class="string">zh-cn</span> <span class="comment"># Language, available values: en, zh-cn</span></span><br><span class="line">  <span class="attr">visitor:</span> <span class="literal">true</span> <span class="comment"># Article reading statistic</span></span><br><span class="line">  <span class="attr">comment_count:</span> <span class="literal">true</span> <span class="comment"># If false, comment count will only be displayed in post page, not in home page</span></span><br><span class="line">  <span class="attr">recordIP:</span> <span class="literal">true</span> <span class="comment"># Whether to record the commenter IP</span></span><br><span class="line">  <span class="attr">serverURLs:</span> <span class="comment"># When the custom domain name is enabled, fill it in here (it will be detected automatically by default, no need to fill in)</span></span><br><span class="line">  <span class="comment">#post_meta_order: 0</span></span><br></pre></td></tr></table></figure><p>重新部署后测试一下：</p><img data-src="/%E7%8E%A9%E8%BD%ACValine%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F/%E6%B5%8B%E8%AF%95%E8%AF%84%E8%AE%BA.png" class=""><p>完成！</p><h4 id="参考文章"><a href="#参考文章" class="headerlink" title="参考文章"></a>参考文章</h4><p><a href="https://blog.csdn.net/Aoman_Hao/article/details/105323917">Hexo博客Next主题valine评论系统邮件提醒</a></p>]]></content>
     
     
     <summary type="html">&lt;p&gt;先上效果&lt;/p&gt;
@@ -256,21 +256,21 @@
     
     
     
-    <category term="专栏" scheme="https://panghai.top/categories/%E4%B8%93%E6%A0%8F/"/>
+    <category term="专栏" scheme="https://next.panghai.top/categories/%E4%B8%93%E6%A0%8F/"/>
     
-    <category term="博客搭建" scheme="https://panghai.top/categories/%E4%B8%93%E6%A0%8F/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    <category term="博客搭建" scheme="https://next.panghai.top/categories/%E4%B8%93%E6%A0%8F/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
     
-    <category term="Valine" scheme="https://panghai.top/categories/%E4%B8%93%E6%A0%8F/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/Valine/"/>
+    <category term="Valine" scheme="https://next.panghai.top/categories/%E4%B8%93%E6%A0%8F/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/Valine/"/>
     
     
-    <category term="Valine" scheme="https://panghai.top/tags/Valine/"/>
+    <category term="Valine" scheme="https://next.panghai.top/tags/Valine/"/>
     
   </entry>
   
   <entry>
     <title>搭建集成Mybatis的Web应用程序</title>
-    <link href="https://panghai.top/%E6%90%AD%E5%BB%BA%E9%9B%86%E6%88%90Mybatis%E7%9A%84Web%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F/"/>
-    <id>https://panghai.top/%E6%90%AD%E5%BB%BA%E9%9B%86%E6%88%90Mybatis%E7%9A%84Web%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F/</id>
+    <link href="https://next.panghai.top/%E6%90%AD%E5%BB%BA%E9%9B%86%E6%88%90Mybatis%E7%9A%84Web%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F/"/>
+    <id>https://next.panghai.top/%E6%90%AD%E5%BB%BA%E9%9B%86%E6%88%90Mybatis%E7%9A%84Web%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F/</id>
     <published>2022-05-10T13:18:04.000Z</published>
     <updated>2022-05-11T04:54:10.910Z</updated>
     
@@ -281,19 +281,19 @@
     
     
     
-    <category term="专栏" scheme="https://panghai.top/categories/%E4%B8%93%E6%A0%8F/"/>
+    <category term="专栏" scheme="https://next.panghai.top/categories/%E4%B8%93%E6%A0%8F/"/>
     
-    <category term="Linux" scheme="https://panghai.top/categories/%E4%B8%93%E6%A0%8F/Linux/"/>
+    <category term="Linux" scheme="https://next.panghai.top/categories/%E4%B8%93%E6%A0%8F/Linux/"/>
     
     
-    <category term="玩转服务器" scheme="https://panghai.top/tags/%E7%8E%A9%E8%BD%AC%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    <category term="玩转服务器" scheme="https://next.panghai.top/tags/%E7%8E%A9%E8%BD%AC%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
     
   </entry>
   
   <entry>
     <title>搭建Web应用程序</title>
-    <link href="https://panghai.top/%E6%90%AD%E5%BB%BAWeb%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F/"/>
-    <id>https://panghai.top/%E6%90%AD%E5%BB%BAWeb%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F/</id>
+    <link href="https://next.panghai.top/%E6%90%AD%E5%BB%BAWeb%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F/"/>
+    <id>https://next.panghai.top/%E6%90%AD%E5%BB%BAWeb%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F/</id>
     <published>2022-05-09T12:59:29.000Z</published>
     <updated>2022-05-10T15:39:18.189Z</updated>
     
@@ -306,12 +306,12 @@
     
     
     
-    <category term="专栏" scheme="https://panghai.top/categories/%E4%B8%93%E6%A0%8F/"/>
+    <category term="专栏" scheme="https://next.panghai.top/categories/%E4%B8%93%E6%A0%8F/"/>
     
-    <category term="Linux" scheme="https://panghai.top/categories/%E4%B8%93%E6%A0%8F/Linux/"/>
+    <category term="Linux" scheme="https://next.panghai.top/categories/%E4%B8%93%E6%A0%8F/Linux/"/>
     
     
-    <category term="玩转服务器" scheme="https://panghai.top/tags/%E7%8E%A9%E8%BD%AC%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    <category term="玩转服务器" scheme="https://next.panghai.top/tags/%E7%8E%A9%E8%BD%AC%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
     
   </entry>
   
