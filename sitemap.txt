@@ -36,11 +36,11 @@ https://next.panghai.top/tags/%E5%85%A8%E5%8F%8C%E5%B7%A5%E9%80%9A%E8%AE%AF/
 https://next.panghai.top/tags/%E7%AE%97%E6%B3%95%E8%AE%AD%E7%BB%83/
 https://next.panghai.top/tags/PTA/
 https://next.panghai.top/tags/%E6%97%A0%E5%AF%86%E7%A0%81%E7%99%BB%E5%BD%95/
-https://next.panghai.top/tags/Jenkins/
-https://next.panghai.top/tags/CI-CD/
 https://next.panghai.top/tags/MySQL/
 https://next.panghai.top/tags/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AE%89%E5%85%A8/
 https://next.panghai.top/tags/%E6%9A%B4%E5%8A%9B%E7%A0%B4%E8%A7%A3/
+https://next.panghai.top/tags/Jenkins/
+https://next.panghai.top/tags/CI-CD/
 https://next.panghai.top/tags/Valine/
 https://next.panghai.top/categories/%E4%B8%93%E6%A0%8F/
 https://next.panghai.top/categories/%E4%B8%93%E6%A0%8F/MySQL/
@@ -52,9 +52,9 @@ https://next.panghai.top/categories/%E4%B8%93%E6%A0%8F/Java%E6%8A%80%E6%9C%AF%E6
 https://next.panghai.top/categories/%E7%AE%97%E6%B3%95/
 https://next.panghai.top/categories/%E4%B8%93%E6%A0%8F/MySQL/%E5%AE%89%E8%A3%85MySQL%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/
 https://next.panghai.top/categories/%E4%B8%93%E6%A0%8F/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/STL/
-https://next.panghai.top/categories/%E4%B8%93%E6%A0%8F/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/
 https://next.panghai.top/categories/%E4%B8%93%E6%A0%8F/Redis/%E5%AE%89%E8%A3%85Redis%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/
 https://next.panghai.top/categories/%E4%B8%93%E6%A0%8F/Java%E6%8A%80%E6%9C%AF%E6%A0%88/WebSocket/
-https://next.panghai.top/categories/%E4%B8%93%E6%A0%8F/Linux/%E5%AE%89%E8%A3%85Java%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/
 https://next.panghai.top/categories/%E7%AE%97%E6%B3%95/%E8%AE%AD%E7%BB%83%E8%B5%9B/
+https://next.panghai.top/categories/%E4%B8%93%E6%A0%8F/Linux/%E5%AE%89%E8%A3%85Java%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/
+https://next.panghai.top/categories/%E4%B8%93%E6%A0%8F/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/
 https://next.panghai.top/categories/%E4%B8%93%E6%A0%8F/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/Valine/
